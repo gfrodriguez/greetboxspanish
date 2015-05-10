@@ -1,0 +1,1 @@
+Cookie que guarda el estado hide del elemento "GreetBox"
